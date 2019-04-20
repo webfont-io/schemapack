@@ -12,7 +12,7 @@
   "tonicExampleFilename": "tonic.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phretaddin/schemapack.git"
+    "url": "git+https://github.com/webfont-io/schemapack.git"
   },
   "keywords": [
     "schema",
@@ -30,13 +30,13 @@
   "author": "phretaddin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phretaddin/schemapack/issues"
+    "url": "https://github.com/webfont-io/schemapack/issues"
   },
   "files": [
     "schemapack.js",
     "tonic.js"
   ],
-  "homepage": "https://github.com/phretaddin/schemapack#readme",
+  "homepage": "https://github.com/webfont-io/schemapack#readme",
   "devDependencies": {
     "ava": "*",
     "benchmark": "*",
