@@ -2,7 +2,7 @@
 // Source: https://github.com/phretaddin/schemapack
 
 'use strict';
-import {Buffer} from "Buffer";
+import {Buffer} from "buffer";
 //var Buffer = new Buffer();
 var strEnc = 'utf8';
 var validateByDefault = true;
