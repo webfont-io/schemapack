@@ -2,8 +2,8 @@
 // Source: https://github.com/phretaddin/schemapack
 
 'use strict';
-
-var Buffer = require('buffer').Buffer;
+import {Buffer} from "Buffer";
+//var Buffer = new Buffer();
 var strEnc = 'utf8';
 var validateByDefault = true;
 var aliasTypes = {};
